@@ -10,10 +10,3 @@
   - ✍️ &nbsp; Pursuing newer solutions to solve business problems + hobbies/side hustles.  
 </div> 
 </div>
-
-<div>
-  <h3> 💻 Languages and Tools </h3>
-  <p>
-<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50">
-<p>
-</div> 
